@@ -1,6 +1,6 @@
 {
   "name": "react-amp-component",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Amp component for react with knobs and switches",
   "main": "build/index.js",
   "peerDependencies": {
